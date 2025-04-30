@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  NexTrend
-//
-//  Created by abhay kumar gupta on 05/03/25.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
